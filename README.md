@@ -1,4 +1,4 @@
-### Customer Churn Analysis
+# Customer Churn Analysis
 ## SQL, Statistics, Machine Learning & Professional Publishing
 
 ---
