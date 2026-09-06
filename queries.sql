@@ -170,7 +170,3 @@ SELECT
 FROM customers
 GROUP BY Contract, Price_Segment
 ORDER BY Churn_Rate_Percent DESC;
-
--- ============================================================================
--- END OF SQL QUERIES
--- ============================================================================
